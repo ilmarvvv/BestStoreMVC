@@ -41,6 +41,6 @@ cd BestStoreMVC/BestStoreMVC</code></pre>
   </ul>
 
   <h2>📸 Interface</h2>
-  <img src="BestStoreMVCScreenshot.jpg" alt="BestStore screenshot" style="max-width: 100%; border: 1px solid #ccc;">
+  <img src="BestStoreMVCScreenshot.JPG" alt="BestStore screenshot" style="max-width: 100%; border: 1px solid #ccc;">
 
   <h2>👤 ILLIA SHEVIAKOV</h2>
